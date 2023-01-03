@@ -9,7 +9,7 @@
         "magento2"
     ],
     "homepage": "http://hemangvyas.com",
-    "license": "Proprietary",
+    "license": "BSD-Source-Code",
     "authors": [{
         "name": "Hemang Vyas (TheCodeBunny)",
         "homepage": "https://github.com/thecodebunny/TcbMagento2Api"
